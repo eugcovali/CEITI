@@ -4,6 +4,6 @@ Practica_B-1931
 Dobtrinin C.& Treastin N.
 https://github.com/Cristiandobrinin/CEAUTO2
 
-Practica_B-1931
+Practica_B-1932
 Isecov I., Sontu D&V
-git@github.com:jah3/TMS-Tourist-Application-C-.git
+https://github.com/jah3/TMS-Tourist-Application-C-
